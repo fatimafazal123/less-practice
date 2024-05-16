@@ -1,0 +1,19 @@
+.a{
+    border-radius: 50px !important;
+    
+    background-image: url(./image/search-01.png);
+    background-repeat: no-repeat;
+}
+.c{
+    display: flex;
+}
+.f{
+    font-size: 80px;
+}
+.e{
+    margin-left: -100px;
+    padding-top: 25px;
+}
+.t{
+    color: grey;
+}
